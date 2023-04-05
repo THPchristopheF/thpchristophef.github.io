@@ -1,0 +1,67 @@
+
+/* {
+  font-family:Open Sans,Arial;
+  color:#0000;
+  font-size:13px;
+  text-align:justify
+  a.hct:hover,a.hct:active  {text-decoration: underline;}
+ }
+*/
+ .headercontainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 6 px;
+  height: 60 px;
+  font-family:Open Sans,Arial;
+  color:#0000;
+  font-size:14px;
+}
+.hct {padding-left: 15px;
+  padding-right: 15px;
+  
+  }
+
+
+
+.logoogle {
+  display: flex; 
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+}
+.barre_centrale{
+  display: flex; 
+  flex-direction: row;
+  justify-content: center;
+  
+
+}
+
+.contenu_de_la_barre_centrale {
+  display: flex; 
+  flex-direction: row;
+  padding: 20px;
+  min-height: 44px; 
+  justify-content: center;
+  border-radius: 24px ;
+}
+.loupe{
+  padding-right: 13px;
+   height: 46px
+
+}
+.whatdoyouwant{
+  margin-top: 6px;
+
+}
+.micro{
+  margin-top: 6px;
+}
+.appphoto{
+  margin-top: 6px;
+}
+
+
+
